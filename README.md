@@ -1,25 +1,25 @@
-# AutoEDA: Automated Exploratory Data Analysis
+# 📊 Automatic EDA Web App
 
 <!-- ![AutoEDA Logo](insert your logo URL here) -->
 
+## 🔥 Overview
 AutoEDA is an open-source Python application designed to streamline the process of Exploratory Data Analysis (EDA) for data scientists, analysts, and anyone working with data. EDA is a crucial step in understanding your dataset, finding patterns, and preparing data for further analysis. AutoEDA simplifies this process by providing an interactive web-based platform to explore, visualize, and preprocess your data effortlessly.
 
-**[Live Website Link](https://autoeda-ifj4.onrender.com/)**
+## 🚀 Features
+- 📂 Upload CSV files for analysis
+- 📊 Display dataset preview & summary statistics
+- 📈 Generate interactive visualizations
+- 🔍 Detect and visualize missing values
+- 📉 Show correlation heatmaps
+- 🧹 Data cleaning and transformation recommendations
+- 📌 Supports various data types
+
+**[Live Website Link](https://automatic-eda-web-app.onrender.com)**
 
 ## Preview
-![Alt text](images/image.png)
+![Alt text](image.png)
 
 This is the home screen of the web application. From here, you can upload any dataset you want and perform Exploratory Data Analysis right through the web.
-
-
-
-## Key Features
-
-- Dataset Overview: Quickly load and preview your dataset, understand its structure, and check for missing data.
-
-- Data Exploration and Visualization: Explore individual features, visualize their distributions, and analyze relationships between variables. Create charts, scatter plots, and correlation heatmaps with ease.
-
-- Automated Data Preprocessing: Upcoming feature! Automate data preprocessing steps, including handling missing data, encoding categorical variables, scaling, and more.
 
 
 ## Why AutoEDA?
@@ -50,9 +50,18 @@ I invite you to try AutoEDA for yourself. Upload your dataset, explore its featu
 
 - Clone this repository to your local machine.
 
+```sh
+git clone https://github.com/tushar8057/auto-eda-webapp.git
+cd auto-eda-webapp
+```
+
 - Open your command line or terminal.
 
 - Navigate to the project directory.
+
+```sh
+cd auto-eda-webapp
+```
 
 - Run the following command to install the required Python libraries:
 
@@ -70,7 +79,3 @@ This will run the web application on your default web browser
 
 ## Contibutions
 AutoEDA is an open-source project, and I welcome contributions from the community. You can help by reporting issues, contributing code, or suggesting new features.
-
-
-
-
